@@ -53,6 +53,7 @@ height:300px;
 padding-top:25px;
 border-top:1px solid black;
 
+color:white;
 }
   .bg-4 { 
    /* Black Gray */
@@ -92,4 +93,10 @@ input:focus{
 .fa-search{
 margin-top:18px;
 margin-right:-20px;
+}
+
+.footertext{
+color:black;
+font-weight:bold;
+text-transform:uppercase;
 }
